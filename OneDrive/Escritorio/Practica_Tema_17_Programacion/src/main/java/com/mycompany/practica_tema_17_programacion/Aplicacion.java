@@ -66,7 +66,7 @@ public class Aplicacion extends javax.swing.JFrame {
         initComponents();
 
         setTitle("Realizado por: Javier Álvarez");
-        setSize(1000, 900);
+        setSize(1000, 910);
 
         setLocationRelativeTo(null); // Centra la ventana en la pantalla
         setVisible(true);
